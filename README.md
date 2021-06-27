@@ -1,0 +1,2 @@
+# mnist
+MNIST WITH CNN AND MLP
